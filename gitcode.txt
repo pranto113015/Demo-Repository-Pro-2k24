@@ -1,0 +1,12 @@
+External Command
+--------------------------
+git branch
+git checkout main
+git pull origin main
+git branch "newbranchname"
+git status 
+git restore <filename>
+git log
+git log --oneline
+git remote
+git remote -v
